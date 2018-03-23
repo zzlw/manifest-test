@@ -1,14 +1,11 @@
-CHACHE MANIFEST
+CACHE MANIFEST
 #version 0.1.2
 
-CHACHE:
-    ./index.html
-    ./404.html
-    ./pic.jpg
-    ./index.js
-
-NETWORK:
-    *
+CACHE:
+    /index.html
+    /404.html
+    /pic.jpg
+    /index.js
 
 FALLBACK
     *.html /404.html
