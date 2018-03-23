@@ -1,0 +1,14 @@
+CHACHE MANIFEST
+#version 0.1.2
+
+CHACHE:
+    ./index.html
+    ./404.html
+    ./pic.jpg
+    ./index.js
+
+NETWORK:
+    *
+
+FALLBACK
+    *.html /404.html
